@@ -1,0 +1,21 @@
+KUBERNETES SCALING
+
+1. HPA
+   Horizontal Pod Autoscaler
+            │
+            ▼
+      More/Fewer Pods
+
+
+2. VPA
+   Vertical Pod Autoscaler
+            │
+            ▼
+     More/Less CPU & RAM
+        for workloads
+
+
+3. Node Autoscaling
+            │
+            ▼
+      More/Fewer Nodes
