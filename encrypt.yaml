@@ -1,0 +1,4 @@
+---
+
+echo -n "secretePassword" | base64
+echo "" | base64 --decode
